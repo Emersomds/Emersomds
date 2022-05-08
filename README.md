@@ -1,4 +1,4 @@
-### <p>Olá! Eu sou o Emerson Matos 🧑‍🎓</p> <br><br>
+# Olá! Eu sou o Emerson Matos 🧑‍🎓 <br><br>
 
 [![Site](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](http://www.emwdeveloper.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emymatose/)
@@ -24,7 +24,7 @@
      
 </div><br><br>
 
-# Técnico em informática para internet "desenvolvimento web Full Stack". Escola Senai. <br>
+## Técnico em informática para internet "desenvolvimento web Full Stack". Escola Senai. <br>
 
-# Cursando Analise e desenvolvimento de sistema.
+## Cursando Analise e desenvolvimento de sistema.
 <br><br>
