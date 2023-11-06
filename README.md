@@ -26,5 +26,5 @@
 
 ## Técnico em informática para internet "desenvolvimento web Full Stack". Escola Senai. <br>
 
-## Cursando Analise e desenvolvimento de sistema.
+## TECNOLOGIA EM GESTÃO DA SEGURANÇA E DEFESA CIBERNÉTICA.
 <br><br>
