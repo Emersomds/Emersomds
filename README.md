@@ -23,8 +23,7 @@
      <br>
      
 </div><br><br>
-
+## TECNOLOGIA EM GESTÃO DA SEGURANÇA E DEFESA CIBERNÉTICA. <br>
 ## Técnico em informática para internet "desenvolvimento web Full Stack". Escola Senai. <br>
 
-## TECNOLOGIA EM GESTÃO DA SEGURANÇA E DEFESA CIBERNÉTICA.
 <br><br>
